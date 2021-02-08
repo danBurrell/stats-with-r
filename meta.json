@@ -1,11 +1,11 @@
 {
-    "courseId": "course-starter-r",
-    "title": "My cool online course",
+    "courseId": "stats-with-r",
+    "title": "Statistics with R",
     "slogan": "A free online course",
-    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna, in accumsan sapien dui ac mi. Pellentesque felis lorem, semper nec velit nec, consectetur placerat enim.",
-    "bio": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam tristique libero at est congue, sed vestibulum tortor laoreet. Aenean egestas massa non commodo consequat. Curabitur faucibus, sapien vitae euismod imperdiet, arcu erat semper urna.",
-    "siteUrl": "https://course-starter-r.netlify.com",
-    "twitter": "spacy_io",
+    "description": "This course aims to develop statistical programming skills in context of reproducibility using R, RStudio, Rmarkdown and friends.",
+    "bio": "I'm not sure what this does, so I've written this text to try to figure it out.",
+    "siteUrl": "https://statistics-with-r.netlify.com",
+    "twitter": "I don't know!",
     "fonts": "IBM+Plex+Mono:500|IBM+Plex+Sans:700|Lato:400,400i,700,700i",
     "testTemplate": "${test}\ntryCatch({\n\n    test()\n}, error = function(e) {\n    cat(paste(e[1]))\n})",
     "juniper": {
@@ -17,9 +17,9 @@
     },
     "showProfileImage": true,
     "footerLinks": [
-        { "text": "Website", "url": "https://spacy.io" },
-        { "text": "Source", "url": "https://github.com/ines/course-starter-python" },
-        { "text": "Built with ♥", "url": "https://github.com/ines/course-starter-python" }
+        { "text": "Website", "url": "https://dandelbrot.io" },
+        { "text": "Source", "url": "https://github.com/danburrell/stats-with-r" },
+        { "text": "Built with ♥", "url": "https://github.com/danburrell/stats-with-r" }
     ],
     "theme": "#de7878"
 }
